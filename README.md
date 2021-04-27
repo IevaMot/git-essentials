@@ -1,7 +1,4 @@
-# git -essentials
+# Git Essentials / Git For Everybody
 
-##Deployment notes
-apie tai
-
-##Staging notes
-apie tai
+> This is a course to teach you how to use everyday git. 
+Gourse created by Kalob Taulien
